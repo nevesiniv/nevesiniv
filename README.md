@@ -31,19 +31,13 @@ Fora do código, gosto de **lutar, correr e jogar bola** — atividades que me a
 ---
 
 ### 🚀 Destaques
-- 🔧 Criação de **SaaS de automação de mensagens** com React + N8N + integrações (Z-API, Stripe).  
+- 🔧 Criação de **SaaS de automação de mensagens** com React + N8N + integrações.
 - ⚡ Arquiteturas **modulares e escaláveis** (App Router, React Query, microsserviços).  
 - ☁️ Experiência em **DevOps (AWS, Kubernetes, Cloudflare)**.  
 - 🤖 Aplicação de **IA para otimizar fluxos e processos** em automações.  
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevesiniv&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-</p>
-
----
 
 ### 📬 Contato
 <p align="center">
