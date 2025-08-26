@@ -1,72 +1,38 @@
 <h1 align="center">Oi, eu sou o Vinicius! 🚀</h1>
 
 <p align="center">
-  Desenvolvedor Full-Stack | Automação Inteligente | Integrações com APIs | Arquiteturas Escaláveis
+  Desenvolvedor Full-Stack | Automações Inteligentes | Integrações com APIs | Arquiteturas Escaláveis
 </p>
 
 ---
 
-
-Sou desenvolvedor full stack com foco em **automações inteligentes**, **integrações com APIs** e **construção de aplicações escaláveis**.  
-Atuo em soluções que vão desde **SaaS** até **plataformas de dados em tempo real**, utilizando tecnologias modernas no frontend, backend e DevOps.  
-
-Tenho experiência em **inteligência artificial aplicada à automação de processos**, usando IA para otimizar performance, melhorar a usabilidade e aumentar a eficiência operacional.  
-
-Fora do código, gosto de **lutar, correr e jogar bola** — atividades que me ajudam a manter foco, energia e equilíbrio no dia a dia. ⚡
+### 👨‍💻 Sobre mim
+Sou desenvolvedor full stack com foco em **automações**, **integrações com APIs** e **aplicações escaláveis**.  
+Trabalho com **React, Next.js, NestJS, FastAPI, AWS, Kubernetes e N8N**, criando soluções que vão de SaaS até plataformas de dados em tempo real.  
+Também aplico **IA na automação de processos** para otimizar performance e experiência do usuário.  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 <p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-
-  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  
-  <!-- Outros -->
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n"/>
 </p>
 
 ---
 
-### 🚀 Principais Experiências
-
-#### 🟢 Automação & SaaS
-- Desenvolvi **componentes reutilizáveis e acessíveis** com Styled Components e Radix UI para uma aplicação SaaS de automação de mensagens.  
-- Implementei **arquitetura modular com App Router**, facilitando escalabilidade e manutenção.  
-- Integrei a **API do WhatsApp (Z-API)** e **Stripe**, automatizando fluxos de pagamento e comunicação em tempo real.  
-- Modelei **diagramas de arquitetura, fluxo de dados e autenticação** para onboarding de novos devs.  
-- Otimizei **carregamento e cache de dados com React Query**, melhorando performance e experiência do usuário.  
-- Criei **automações inteligentes no N8N** integradas a CRM.  
-
-#### 🟡 Liderança e Gestão
-- Liderei equipe multidisciplinar com **78 colaboradores** em áreas estratégicas (faturamento, NIR, copa, segurança).  
-- Garanti **eficiência operacional e padronização de processos**, alinhados a exigências regulatórias.  
-- Desenvolvi aplicativo em **Python** que automatizou coleta e análise de dados para vigilância sanitária → redução de **20% no tempo de análise**.  
-
-#### 🔵 EdTech & Plataformas Globais
-- Desenvolvi sistemas internos de gestão escolar com **Vue.js, Nuxt.js, Django e FastAPI**, integrando módulos acadêmicos, financeiros e pedagógicos.  
-- Integrei plataformas internacionais (**MIT, Juilliard, UNICEF**) ao ambiente escolar.  
-- Migrei de monólito para **microsserviços com Kubernetes e Terraform**, reduzindo tempo de deploy de **1h → 5min**.  
-- Implementei **OAuth 2.0 + JWT** garantindo segurança e LGPD.  
-- Criei **dashboards interativos** para análise pedagógica e tomada de decisão.  
-
-#### 🟣 Suporte & Início de Carreira
-- Dei suporte em integrações de APIs (Google Workspace, Microsoft Teams, plataformas educacionais globais).  
-- Auxiliei na **implementação de melhorias de UX/UI** e testes funcionais.  
-- Participei de **code reviews** com mentoria de devs sênior.  
-- Colaborei na criação de **scripts e automações internas** para otimizar processos administrativos.  
+### 🚀 Destaques
+- 🔧 Criação de **SaaS de automação de mensagens** com React + N8N + integrações (Z-API, Stripe).  
+- ⚡ Arquiteturas **modulares e escaláveis** (App Router, React Query, microsserviços).  
+- ☁️ Experiência em **DevOps (AWS, Kubernetes, Cloudflare)**.  
+- 🤖 Aplicação de **IA para otimizar fluxos e processos** em automações.  
 
 ---
 
