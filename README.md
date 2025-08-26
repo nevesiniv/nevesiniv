@@ -1,8 +1,6 @@
-<h1 align="center">Oi, eu sou o Vinicius! 🚀</h1>
-
-<p align="center">
+<h1 align="center">
   Desenvolvedor Full-Stack | Automações Inteligentes | Integrações com APIs | Arquiteturas Escaláveis
-</p>
+</h1>
 
 ---
 
