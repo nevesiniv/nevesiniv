@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+
 Sou desenvolvedor full stack com foco em **automações inteligentes**, **integrações com APIs** e **construção de aplicações escaláveis**.  
 Atuo em soluções que vão desde **SaaS** até **plataformas de dados em tempo real**, utilizando tecnologias modernas no frontend, backend e DevOps.  
 
