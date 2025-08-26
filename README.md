@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou SeuNome</h1>
+<h1 align="center">Oi, eu sou o Vinicius! 😁</h1>
 
 <p align="center">
   Desenvolvedor Full-Stack | Apaixonado por Front-End e UI/UX
@@ -7,7 +7,7 @@
 ---
 
 ### Sobre mim
-- Trabalho como [cargo/área] em [empresa/estudo]...
+- Trabalho como desenvolvedor FrontEnd na NextApps...
 - Atualmente aprendendo: **React**, **Node.js**, **TypeScript**...
 
 ### Tecnologias
@@ -15,7 +15,7 @@
 
 ### Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nevesiniv&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </p>
 
 ### Projetos em destaque
