@@ -6,10 +6,12 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-Sou desenvolvedor full stack com foco em **automações**, **integrações com APIs** e **aplicações escaláveis**.  
-Trabalho com **React, Next.js, NestJS, FastAPI, AWS, Kubernetes e N8N**, criando soluções que vão de SaaS até plataformas de dados em tempo real.  
-Também aplico **IA na automação de processos** para otimizar performance e experiência do usuário.  
+Desenvolvedor full stack com foco em **automações inteligentes**, **integrações com APIs** e **construção de aplicações escaláveis**.  
+Atuo em soluções que vão desde **SaaS** até **plataformas de dados em tempo real**, utilizando tecnologias modernas no frontend, backend e DevOps.  
+
+Tenho experiência em **inteligência artificial aplicada à automação de processos**, usando IA para otimizar performance, melhorar a usabilidade e aumentar a eficiência operacional.  
+
+Fora do código, gosto de **lutar, correr e jogar bola** — atividades que me ajudam a manter foco, energia e equilíbrio no dia a dia. ⚡  
 
 ---
 
