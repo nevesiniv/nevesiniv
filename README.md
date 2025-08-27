@@ -7,7 +7,7 @@
 Desenvolvedor full stack com foco em **automações inteligentes**, **integrações com APIs** e **construção de aplicações escaláveis**.  
 Atuo em soluções que vão desde **SaaS** até **plataformas de dados em tempo real**, utilizando tecnologias modernas no frontend, backend e DevOps.  
 
-Tenho experiência em **inteligência artificial aplicada à automação de processos**, usando IA para otimizar performance, melhorar a usabilidade e aumentar a eficiência operacional.  
+Tenho experiência em **inteligência artificial aplicada à automação de processos**, usando IA para otimizar performance, melhorar a usabilidade e aumentar a eficiência operacional da sua empresa.  
 
 Fora do código, gosto de **lutar, correr e jogar bola** — atividades que me ajudam a manter foco, energia e equilíbrio no dia a dia. ⚡  
 
