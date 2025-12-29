@@ -4,11 +4,18 @@
 
 ---
 
-Desenvolvedor Full Stack com foco em IA aplicada, automação e sistemas de comunicação em tempo real. Crio soluções que reduzem custo, tempo e trabalho manual. Do CRM inteligente ao agente que atende sozinho no WhatsApp. 
+Desenvolvedor Full Stack focado em IA aplicada e automação de processos.
+Crio sistemas que eliminam trabalho manual, reduzem custo operacional
+e escalam atendimento e vendas via WhatsApp.
 
-Minha trajetória mistura código e gestão: já liderei 78 pessoas em operações hospitalares, criei automações em Python para vigilância sanitária e desenvolvi sistemas educacionais que atendiam milhares de usuários. Essa experiência me deu uma visão que vai além do técnico, entendo processos, gargalos e o que realmente importa para quem usa o sistema. 
+Já liderei operações com +78 pessoas e levei essa visão de negócio
+para o código: construo CRMs, agentes de IA e fluxos automatizados
+pensados para uso real, não só arquitetura bonita.
 
-Trabalho com Next.js, React, Node.js, TypeScript, PostgreSQL, Redis, Prisma, e tenho experiência sólida com Vue.js, Nuxt.js, Django, FastAPI, Python, Kubernetes e Terraform. Uso arquiteturas como DDD e Repository Pattern, e construo integrações que fazem sistemas conversarem: WhatsApp, gateways de pagamento, Google APIs e automações com n8n. Busco projetos onde tecnologia resolve problemas de verdade, menos operação manual, mais resultado.
+Stack principal: Next.js, React, Node.js, TypeScript, PostgreSQL, Redis.
+Experiência sólida com Python, FastAPI, Django, Kubernetes e Terraform.
+Integrações com WhatsApp, pagamentos, Google APIs e automações via n8n / Python.
+
 
 Fora do código, gosto de lutar, correr e jogar bola, hábitos que me ajudam a manter o foco, a disciplina e a energia no dia a dia. ⚡  
 
