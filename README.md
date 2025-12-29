@@ -1,15 +1,16 @@
 <h1 align="center">
-  Desenvolvedor Full-Stack | Automações Inteligentes | Integrações com APIs | Arquiteturas Escaláveis
+  Full Stack Developer | IA aplicada | Automação de Processos | React · Node · Python | Integrações e APIs
 </h1>
 
 ---
 
-Desenvolvedor full stack com foco em **automações inteligentes**, **integrações com APIs** e **construção de aplicações escaláveis**.  
-Atuo em soluções que vão desde **SaaS** até **plataformas de dados em tempo real**, utilizando tecnologias modernas no frontend, backend e DevOps.  
+Desenvolvedor Full Stack com foco em IA aplicada, automação e sistemas de comunicação em tempo real. Crio soluções que reduzem custo, tempo e trabalho manual. Do CRM inteligente ao agente que atende sozinho no WhatsApp. 
 
-Tenho experiência em **inteligência artificial aplicada à automação de processos**, usando IA para otimizar performance, melhorar a usabilidade e aumentar a eficiência operacional da sua empresa.  
+Minha trajetória mistura código e gestão: já liderei 78 pessoas em operações hospitalares, criei automações em Python para vigilância sanitária e desenvolvi sistemas educacionais que atendiam milhares de usuários. Essa experiência me deu uma visão que vai além do técnico, entendo processos, gargalos e o que realmente importa para quem usa o sistema. 
 
-Fora do código, gosto de **lutar, correr e jogar bola** — atividades que me ajudam a manter foco, energia e equilíbrio no dia a dia. ⚡  
+Trabalho com Next.js, React, Node.js, TypeScript, PostgreSQL, Redis, Prisma, e tenho experiência sólida com Vue.js, Nuxt.js, Django, FastAPI, Python, Kubernetes e Terraform. Uso arquiteturas como DDD e Repository Pattern, e construo integrações que fazem sistemas conversarem: WhatsApp, gateways de pagamento, Google APIs e automações com n8n. Busco projetos onde tecnologia resolve problemas de verdade, menos operação manual, mais resultado.
+
+Fora do código, gosto de lutar, correr e jogar bola, hábitos que me ajudam a manter o foco, a disciplina e a energia no dia a dia. ⚡  
 
 ---
 
