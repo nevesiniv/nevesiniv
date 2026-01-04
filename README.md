@@ -1,5 +1,5 @@
 <h1 align="center">
-  Full Stack Developer | IA | Automação | React | Node | Python
+Full Stack Developer | IA aplicada | Automação de Processos | React · Node · Python | Integrações e APIs
 </h1>
 
 ---
