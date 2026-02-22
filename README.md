@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfamorim/)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nevesiniv)
 [![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inivdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nevesiniv.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://nevesiniv.github.io/portfolio](https://inivdev.com/))
 
 </div>
 
