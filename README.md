@@ -11,7 +11,7 @@
 
 ### `$ whoami`
 
-# Full Stack Developer & IA Aplicada
+# Tech Lead | IA & Automação | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=whoami+→+full+stack+developer;focus+→+IA+aplicada+%2B+automação;stack+→+react+·+node+·+python;status+→+building+cool+stuff" alt="Typing SVG" />
 
