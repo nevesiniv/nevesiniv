@@ -30,9 +30,9 @@
 
 > Minha trajetória mistura **código e gestão**: já liderei 78 pessoas em operações hospitalares, criei automações em Python para vigilância sanitária e desenvolvi sistemas educacionais para milhares de usuários. Essa experiência me deu uma visão que vai além do técnico — *entendo processos, gargalos e o que realmente importa para quem usa o sistema*.
 
-Crio sistemas com inteligência artificial que eliminam trabalho manual e geram resultado real. Atualmente sou **Senior Full Stack | AI Engineer na Purple Tech**, construindo um **AI SDR** — agentes LLM no WhatsApp que transcrevem áudio, analisam imagens e qualificam leads sozinhos — dentro de um ecossistema SaaS multi-produto.
+Crio sistemas com inteligência artificial que eliminam trabalho manual e geram resultado real. Hoje sou **cofundador e CTO da DVL Tecnologia**, onde crio e escalo SaaS próprios — como o **Concurse**, plataforma que transforma editais de concursos em trilhas de estudo com questões geradas por IA (web + Android/iOS).
 
-Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprio em produção: o **Concurse**, plataforma de concursos com questões geradas por IA (web + Android/iOS).
+Antes, na **Purple Tech**, construí o **AI SDR**: agentes autônomos no WhatsApp com RAG sobre a base de cada cliente, pipeline multimodal (áudio e imagem) e qualificação automática de leads. Na **NextApps**, liderei como Tech Lead um CRM orientado por IA usado por +500 empresas.
 
 <br>
 
@@ -70,10 +70,10 @@ Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprio em p
 
 | Período | Empresa | Cargo | Destaque |
 |:---:|:---|:---|:---|
-| **2026 — agora** | **Purple Tech** | Senior Full Stack \| AI Engineer | AI SDR (agentes LLM no WhatsApp), LexPerito (SaaS jurídico) e Hub central (multitenancy, SSO/OIDC, billing). NestJS, Next.js, Vue 3, Prisma, Gemini |
-| **2025 — agora** | **DVL Tecnologia** | Cofundador & CTO | SaaS e app próprio: Concurse (web + Android/iOS, questões com IA) |
-| **2025 — 2026** | **NextApps Brasil** | Full Stack Sênior → Tech Lead | CRM inteligente com IA. Next.js 16, React 19, Hono.js, PostgreSQL, Redis. +10 mil usuários |
-| **2022 — 2025** | **Instituto Alpha** | Coordenador de Projetos | Liderança de 78 colaboradores. Automação Python para vigilância sanitária |
+| **2026 — agora** | **DVL Tecnologia** | Cofundador & CTO | SaaS próprios, do produto à operação e crescimento. Concurse: web + Android/iOS, questões com IA, assinatura recorrente |
+| **2026** | **Purple Tech** | Senior Full Stack \| AI Engineer | AI SDR com agentes autônomos, RAG e pipeline multimodal; LexPerito (SaaS jurídico); Hub (multitenancy, SSO/OIDC, billing). NestJS, Next.js, Prisma, Gemini |
+| **2025 — 2026** | **NextApps Brasil** | Full Stack Pleno → Tech Lead | CRM com IA para +500 empresas. 4 perfis de agentes autônomos no WhatsApp, configuração no-code por tenant. Next.js, React, Node.js |
+| **2022 — 2025** | **Prefeitura de São Paulo** (Hospital Medina) | Full Stack Pleno → Coordenador de Projetos | Liderança de 78 colaboradores. Automação Python para vigilância sanitária, integração CROSS/SIRESP |
 | **2018 — 2022** | **Escola Móbile** | Full Stack (Jr → Pleno) | Sistemas acadêmicos para milhares de alunos. Vue.js, Django, Kubernetes |
 
 <br>
@@ -87,7 +87,7 @@ Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprio em p
 ### 01 · AI SDR · Purple Tech
 **`Em produção`** · Agente de IA para atendimento comercial
 
-Agente LLM no WhatsApp que transcreve áudios, analisa imagens e qualifica leads automaticamente. Human Takeover, debounce de mensagens e follow-up automático de conversas abandonadas.
+Orquestração de agentes autônomos no WhatsApp com RAG sobre a base de cada cliente, transcrição de áudios, análise de imagens e qualificação automática de leads. Human Takeover, debounce de mensagens e follow-up automático de conversas abandonadas.
 
 `NestJS` `Next.js` `PostgreSQL` `Redis` `Google Gemini` `WAHA`
 
@@ -113,7 +113,7 @@ Estudo para concursos com questões geradas por IA, na web e em app Android/iOS,
 ### 03 · NextApps CRM
 **`Em produção`** · CRM com IA + Agente WhatsApp
 
-CRM inteligente que automatiza processos, gera insights e antecipa ações com IA. +10 mil usuários ativos.
+CRM orientado por IA usado por +500 empresas: agentes de suporte, SDR, qualificação e vendas no WhatsApp, que movem o lead no kanban sozinhos.
 
 `Next.js 16` `React 19` `Hono.js` `PostgreSQL` `WebSocket` `WhatsApp API`
 
