@@ -32,7 +32,7 @@
 
 Crio sistemas com inteligência artificial que eliminam trabalho manual e geram resultado real. Atualmente sou **Senior Full Stack | AI Engineer na Purple Tech**, construindo um **AI SDR** — agentes LLM no WhatsApp que transcrevem áudio, analisam imagens e qualificam leads sozinhos — dentro de um ecossistema SaaS multi-produto.
 
-Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprios em produção: o **DY**, usado em 18 países, e o **Concurse**, plataforma de concursos com questões geradas por IA (web + Android/iOS).
+Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprio em produção: o **Concurse**, plataforma de concursos com questões geradas por IA (web + Android/iOS).
 
 <br>
 
@@ -71,7 +71,7 @@ Também sou **cofundador e CTO da DVL Tecnologia**, com SaaS e app próprios em 
 | Período | Empresa | Cargo | Destaque |
 |:---:|:---|:---|:---|
 | **2026 — agora** | **Purple Tech** | Senior Full Stack \| AI Engineer | AI SDR (agentes LLM no WhatsApp), LexPerito (SaaS jurídico) e Hub central (multitenancy, SSO/OIDC, billing). NestJS, Next.js, Vue 3, Prisma, Gemini |
-| **2025 — agora** | **DVL Tecnologia** | Cofundador & CTO | SaaS e apps próprios: DY (18 países) e Concurse (web + Android/iOS, questões com IA) |
+| **2025 — agora** | **DVL Tecnologia** | Cofundador & CTO | SaaS e app próprio: Concurse (web + Android/iOS, questões com IA) |
 | **2025 — 2026** | **NextApps Brasil** | Full Stack Sênior → Tech Lead | CRM inteligente com IA. Next.js 16, React 19, Hono.js, PostgreSQL, Redis. +10 mil usuários |
 | **2022 — 2025** | **Instituto Alpha** | Coordenador de Projetos | Liderança de 78 colaboradores. Automação Python para vigilância sanitária |
 | **2018 — 2022** | **Escola Móbile** | Full Stack (Jr → Pleno) | Sistemas acadêmicos para milhares de alunos. Vue.js, Django, Kubernetes |
@@ -122,21 +122,7 @@ CRM inteligente que automatiza processos, gera insights e antecipa ações com I
 </td>
 <td width="50%">
 
-### 04 · DY (DearYou)
-**`Em produção`** · Plataforma SaaS de Páginas Românticas
-
-SaaS para criar páginas personalizadas para casais em 5 minutos — com contador, galeria, música e QR Code. Usado em 18 países.
-
-`Next.js 14` `TypeScript` `Tailwind` `Supabase` `Stripe` `Framer Motion`
-
-[Visitar projeto →](https://dearyou.com.br)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 05 · Plataforma Educacional
+### 04 · Plataforma Educacional
 **`Em produção`** · Sistema Acadêmico Completo
 
 Sistema para milhares de alunos com módulos acadêmicos, financeiros e pedagógicos. Conformidade LGPD.
@@ -146,9 +132,11 @@ Sistema para milhares de alunos com módulos acadêmicos, financeiros e pedagóg
 [Visitar projeto →](https://www.escolamobile.com.br/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
-### 06 · Automação Hospitalar
+### 05 · Automação Hospitalar
 **`Concluído`** · Python para Vigilância Sanitária
 
 App em Python para automatizar coleta e análise de dados de óbitos e CID. Redução drástica de tempo manual.
